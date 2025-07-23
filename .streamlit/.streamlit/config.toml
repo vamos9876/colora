@@ -1,0 +1,10 @@
+[theme]
+base="light"
+primaryColor="#e54c30"
+font="sans serif"
+
+[server]
+enableStaticServing = true
+
+[client]
+showSidebarNavigation = false
